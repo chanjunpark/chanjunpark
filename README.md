@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanjunpark
-- 👀 I’m interested in AI,ML,Deeplearning / Natural Language Processing / Recommender System / Web Development(Node.js) 
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in Web Development(Spring, Node.js) / AI,ML,Deeplearning / Natural Language Processing / Recommender System
+- 🌱 I’m currently learning JAVA/Spring
 - 📫 How to reach me wns0415@gmail.com
 
 
